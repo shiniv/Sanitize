@@ -1,0 +1,18 @@
+{
+    "name": "shiniv/Sanitize",
+    "description": "A PHP library for Handles encoding of incoming user input, decoding, and making safe for output",
+    "authors": [
+        {
+            "name": "shiniv",
+            "email": "shiniv@cat.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shiniv\\Input\\": "src/"
+        }
+    }
+}
