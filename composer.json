@@ -1,5 +1,5 @@
 {
-    "name": "shiniv/Sanitize",
+    "name": "shiniv/sanitize",
     "description": "A PHP library for Handles encoding of incoming user input, decoding, and making safe for output",
     "authors": [
         {
